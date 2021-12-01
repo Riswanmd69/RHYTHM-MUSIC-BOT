@@ -174,7 +174,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/326fdecd025a145566963.png"
+        thumb_name = "https://telegra.ph/file/7e97fc89a25512e007156.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -231,7 +231,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/326fdecd025a145566963.png"
+            thumb_name = "https://telegra.ph/file/7e97fc89a25512e007156.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -390,7 +390,7 @@ async def skip(_, message: Message):
                 )
 
     await message.reply_photo(
-                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
+                             photo="https://telegra.ph/file/7e97fc89a25512e007156.jpg", 
                              caption=f'**⚡𝙰𝙽𝙶𝙴𝙻⚡ ᴍᴜꜱɪᴄ \n ɴᴏᴡ ⏩ꜱᴋɪᴘᴘᴇᴅ...**'
    ) 
 
@@ -406,7 +406,7 @@ async def stop(_, message: Message):
 
     await callsmusic.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
+                             photo="https://telegra.ph/file/7e97fc89a25512e007156.jpg", 
                              caption="**⚡𝙰𝙽𝙶𝙴𝙻⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ❌ ꜱᴛᴏᴘᴘᴇᴅ ...**"
     )
 
@@ -424,6 +424,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://telegra.ph/file/326fdecd025a145566963.png",
+                              photo="https://telegra.ph/file/7e97fc89a25512e007156.jpg",
                               caption="**⚡𝙰𝙽𝙶𝙴𝙻⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ʀᴇᴀʟᴏᴀᴅᴇᴅ ...**"
     )
