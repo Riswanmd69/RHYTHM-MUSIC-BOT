@@ -1,9 +1,9 @@
 {
-  "name": "Angel_Music_Bot",
+  "name": "Rhythm_Music_Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png",
    "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/SOCIAL-MECHANIC-TEAM-NRD/ANGEL-MUSIC-BOT",
+  "repository": "https://github.com/SOCIAL-MECHANIC-TEAM-NRD/RHYTHM-MUSIC-BOT",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
