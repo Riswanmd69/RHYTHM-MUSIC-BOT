@@ -26,7 +26,7 @@
 
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@social-mechanic-1997/getStringName#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Crazy_boy_riswan/getStringName#main.py) 
 to get pyrogram string session
 
 
@@ -35,9 +35,8 @@ to get pyrogram string session
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Riswanmd69/RHYTHM-MUSIC-BOT)
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
-# [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
+# [𝙊𝙒𝙉𝙀𝙍](https://t.me/Crazy_boy_riswan) 
 
 ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
-- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
-- [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
-- [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
+- [𝙍𝙀𝙋𝙊](https://github.com/Riswanmd69/RHYTHM-MUSIC-BOT) 👈🏼 👈🏼
+- [𝙊𝙒𝙉𝙀𝙍](https://t.me/Crazy_boy_riswan) 👈🏼
