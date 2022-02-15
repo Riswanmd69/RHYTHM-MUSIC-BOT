@@ -3,7 +3,7 @@
 
 ### RHYTHM 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Tamilchat_Bestfriends"><img src="https://telegra.ph/file/6caec29bf58337953a4b4.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/Tamilchat_Bestfriends"><img src="https://telegra.ph/file/ef7d073ed69000b4a51e1.png" width="300"></a></p>
 
 
 
